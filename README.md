@@ -21,11 +21,11 @@ Una aplicación de consola diseñada para registrar las notas de un grupo de est
 ### Ejemplo No.1 (Flujo normal del programa)
 ![Ejecución del programa, flujo normal](Ejemplo_1_funcional.png)
 
-### Ejemplo No.2 (Validación de datos incorrectos)
-![Ejecución del programa, validaciones](Ejemplo_2_Validacion.png)
+### Ejemplo No.2 (Repetición del ciclo completo)
+![Ejecución del programa, validaciones](Ejemplo_2_repeticion.png)
 
-### Ejemplo No.3 (Repetición del ciclo completo)
-![Ejecución del programa, repetición de grupo](Ejemplo_3_repeticion.png)
+### Ejemplo No.3 (Validación de datos erróneos)
+![Ejecución del programa, repetición de grupo](Ejemplo_3_Validacion.png)
 
 ## Estructura utilizada y su función
 Para este desarrollo utilicé **bucles anidados** y **condicionales múltiples**, dividiendo el flujo del programa en cajas lógicas de repetición, respetando la consigna de no usar arreglos ni funciones externas:
