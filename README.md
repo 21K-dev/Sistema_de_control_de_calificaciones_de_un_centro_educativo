@@ -6,7 +6,7 @@ Programa de consola para registrar calificaciones de estudiantes mediante bucles
 - **Matrícula:** *[2025-2485]*.
 
 ## Descripción breve del programa
-Una aplicación de consola diseñada para registrar las notas de un grupo de estudiantes. El sistema se encarga de solicitar los datos, validar que no se ingresen valores fuera de rango, calcular el promedio individual indicando si aprueban o reprueban, y emitir un resumen estadístico del grupo completo al finalizar el registro.
+Una aplicación de consola diseñada para registrar las notas de un grupo de estudiantes. El sistema se encarga de solicitar los datos, validar que no se ingresen valores fuera de rango, calcular el promedio individual indicando si aprueban o reprueban, y emitir un resumen del grupo completo al finalizar el registro.
 
 ## Lógica del programa
 - **Datos de entrada:** Cantidad de estudiantes (valor entero), el nombre de cada estudiante (texto), 4 calificaciones por estudiante (valores decimales) y una letra (s/n) para repetir el programa.
@@ -14,7 +14,7 @@ Una aplicación de consola diseñada para registrar las notas de un grupo de est
   - Validación continua para rechazar estudiantes en negativo/cero y calificaciones fuera del rango 0-100.
   - Cálculo del promedio individual (suma de 4 notas dividida entre 4).
   - Condición para determinar el estado: Aprobado (>= 70) o Reprobado (< 70).
-  - Acumulación matemática y comparaciones para determinar el total de aprobados, reprobados, el promedio general y el estudiante con la nota más alta.
+  - Acumulación y comparaciones para determinar el total de aprobados, reprobados, el promedio general y el estudiante con la nota más alta.
 - **Datos de Salida:** Impresión en pantalla del promedio individual con su estado correspondiente, seguido de un reporte final que incluye contadores generales y el mejor promedio del aula.
 
 ## Captura de pantalla del programa en ejecución
